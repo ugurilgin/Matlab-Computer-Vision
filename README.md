@@ -26,7 +26,7 @@ for i=1:size(bbox,1) %dizideki algilanan yuzleri donguyle
     figure;imshow(face,[]);%ekranda gozukmesini sagliyoruz
 end
 ~~~~
-
+![logo](/uyg.png)
  ### Hazırlayanlar
  * Uğur ILGIN
  * Çağlar ARSLAN
