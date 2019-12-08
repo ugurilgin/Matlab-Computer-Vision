@@ -19,6 +19,7 @@ for i=1:size(bbox,1) %dizideki algilanan yuzleri donguyle
 end
 ~~~~
 ![logo](/uyg.png)
+#### Açıklama
 * 1-Yuz algilama kutuphanesini dahil ediyoruz
 * 2-Sekil olusturucu ile dikdortgen seklini olusturup renk ayarlarını yapıyoruz.
 * 3-Resmimizi aciyoruz
