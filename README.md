@@ -2,4 +2,4 @@
  ## NKU SAYISAL HESAPLAMA PROGRAMLARI
  ### Hazırlayanlar
  * Uğur ILGIN
- *Çağlar ARSLAN
+ * Çağlar ARSLAN
